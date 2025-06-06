@@ -1,0 +1,12 @@
+C:\Users\Gerzson\Documents\iskloka\informatika\XI\prog\c#\SAJAT\PUZZLE\PUZZLE\bin\Release\PUZZLE.exe
+C:\Users\Gerzson\Documents\iskloka\informatika\XI\prog\c#\SAJAT\PUZZLE\PUZZLE\bin\Release\PUZZLE.pdb
+C:\Users\Gerzson\Documents\iskloka\informatika\XI\prog\c#\SAJAT\PUZZLE\PUZZLE\obj\x86\Release\WindowsFormsApplication1.frmNyert.resources
+C:\Users\Gerzson\Documents\iskloka\informatika\XI\prog\c#\SAJAT\PUZZLE\PUZZLE\obj\x86\Release\WindowsFormsApplication1.frmToplista.resources
+C:\Users\Gerzson\Documents\iskloka\informatika\XI\prog\c#\SAJAT\PUZZLE\PUZZLE\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Gerzson\Documents\iskloka\informatika\XI\prog\c#\SAJAT\PUZZLE\PUZZLE\obj\x86\Release\PUZZLE.csproj.GenerateResource.Cache
+C:\Users\Gerzson\Documents\iskloka\informatika\XI\prog\c#\SAJAT\PUZZLE\PUZZLE\obj\x86\Release\PUZZLE.exe
+C:\Users\Gerzson\Documents\iskloka\informatika\XI\prog\c#\SAJAT\PUZZLE\PUZZLE\obj\x86\Release\PUZZLE.pdb
+C:\Users\Gerzson\Documents\iskloka\informatika\XI\prog\c#\SAJAT\PUZZLE\PUZZLE\obj\x86\Release\WindowsFormsApplication1.frmMent.resources
+C:\Users\Gerzson\Documents\iskloka\informatika\XI\prog\c#\SAJAT\PUZZLE\PUZZLE\obj\x86\Release\PUZZLE.csprojResolveAssemblyReference.cache
+C:\Users\Gerzson\Documents\iskloka\informatika\XI\prog\c#\SAJAT\PUZZLE\PUZZLE\obj\x86\Release\WindowsFormsApplication1.frmJatek.resources
+C:\Users\Gerzson\Documents\iskloka\informatika\XI\prog\c#\SAJAT\PUZZLE\PUZZLE\obj\x86\Release\WindowsFormsApplication1.frmElonezet.resources
